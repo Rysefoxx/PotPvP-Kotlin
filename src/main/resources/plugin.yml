@@ -1,0 +1,9 @@
+name: PotPvP
+main: io.github.rysefoxx.PotPvP
+version: '${project.version}'
+api-version: 1.13
+libraries:
+  - net.axay:kspigot:1.19.0
+  - net.kyori:adventure-text-minimessage:4.11.0
+commands:
+  eat:
